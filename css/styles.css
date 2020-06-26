@@ -98,3 +98,8 @@ body {
       text-align: left;
     }
   }
+
+  .addr,.ph,.id{
+    font-size: 15px;
+    font-weight: 600;
+  }
